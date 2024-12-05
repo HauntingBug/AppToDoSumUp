@@ -4,9 +4,6 @@
 //#include <iostream> // Biblioteca para entrada e saída de dados.
 
 #include "pch.h"
-#include <iostream>
-// Passo 1: Incluímos as bibliotecas necessárias.
-
 #include <iostream> // Biblioteca para entrada e saída de dados.
 
 #include <string> // Biblioteca para manipulação de strings.
@@ -53,6 +50,3 @@ int main() {
 	return 0;
 
 }
-
-
-// Feito por maximo e alexis
